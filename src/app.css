@@ -1,0 +1,2 @@
+:root { --h: 190; }
+.dot { width: 10px; height: 10px; border-radius: 3px; display: inline-block; margin: 0 0.25rem 0 0.75rem; }
